@@ -1,6 +1,11 @@
 sword and spear
 wall of shields
+<<<<<<< HEAD
 
 stranding strong
 Form the lines 
 
+=======
+две строчки песни здесь
+раз два
+>>>>>>> 8af6b32e04fc3b6175e9bdcfd67aba4d16d814fc
